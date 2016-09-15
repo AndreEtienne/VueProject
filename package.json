@@ -40,8 +40,10 @@
   },
   "dependencies": {
     "lodash": "^4.11.1",
+    "material-design-lite": "^1.2.1",
     "perfect-scrollbar": "^0.6.12",
     "vue": "^1.0.21",
+    "vue-mdl": "^0.9.4",
     "vue-router": "^0.7.13",
     "vue-sortable": "^0.1.3"
   }
